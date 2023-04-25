@@ -12,6 +12,6 @@
     "deploy": "wrangler publish"
   },
   "dependencies": {
-    "yaml": "^2.1.1"
+    "yaml": "^2.2.2"
   }
 }
